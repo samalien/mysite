@@ -9,7 +9,7 @@ const skills = [
   },
   {
     title: 'Node.JS',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -38,9 +38,9 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'ElasticSearch',
+    title: 'Angular',
     competency: 2,
-    category: ['Web Development', 'Databases'],
+    category: ['Web Development'],
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
@@ -48,38 +48,23 @@ const skills = [
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'Data Mining',
-    competency: 3,
-    category: ['Data Science'],
-  },
-  {
     title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'D3',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Flask',
-    competency: 2,
+    competency: 5,
     category: ['Web Development', 'Python'],
   },
   {
     title: 'Git/Mercurial',
-    competency: 3,
+    competency: 4,
     category: ['Tools'],
   },
   {
     title: 'Kubernetes',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Data Engineering'],
   },
   {
@@ -89,18 +74,8 @@ const skills = [
   },
   {
     title: 'Numpy',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Numba',
-    competency: 2,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 3,
-    category: ['Data Science', 'Python'],
   },
   {
     title: 'Jupyter',
@@ -109,12 +84,12 @@ const skills = [
   },
   {
     title: 'Typescript',
-    competency: 2,
+    competency: 1,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -124,7 +99,7 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
@@ -136,16 +111,6 @@ const skills = [
     title: 'MATLAB',
     competency: 2,
     category: ['Languages'],
-  },
-  {
-    title: 'R',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'Data Visualization',
-    competency: 3,
-    category: ['Data Science', 'Javascript'],
   },
   {
     title: 'GraphQL',
@@ -168,24 +133,14 @@ const skills = [
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
-    title: 'Hadoop',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    title: 'Laravel',
+    competency: 4,
+    category: ['Web Development'],
   },
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
-  },
-  {
-    title: 'Dagster',
-    competency: 2,
-    category: ['Data Engineering', 'Python'],
-  },
-  {
-    title: 'Mypy',
-    competency: 3,
-    category: ['Python'],
+    title: 'php',
+    competency: 4,
+    category: ['Web Development', 'Languages'],
   },
   {
     title: 'Pylint',
